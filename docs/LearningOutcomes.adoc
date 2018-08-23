@@ -82,7 +82,7 @@ Learn https://se-edu.github.io/se-book/cppToJava/collections/[how to use some Ja
 
 === Exercise: Use `HashMap`
 
-Currently, a person's details are stored as a `String[]`. Modify the code to use a `HashMap<String, String>` instead.
+Currently, a person's details are stored as a `String[]`. Modify the code to use a `HashMap<PersonData, String>` instead.
 A sample code snippet is given below.
 
 [source,java]
